@@ -12,28 +12,32 @@
       "weapon": "candlestick",
       "rooms": {
          "seen": ["library", "billiard room"],
-         "notSeen": ["study"]    
+         "notSeen": ["study"]
+		}		 
    },
    {
       "suspect": "Professor Plum",
       "weapon": "revolver",
       "rooms": {
          "seen": ["hall", "study"],
-         "notSeen": ["billiard room", "ballroom"]    
+         "notSeen": ["billiard room", "ballroom"]
+		}
    },
    {
       "suspect": "Mrs White",
       "weapon": "rope",
       "rooms": {
          "seen": ["billiard room"],
-         "notSeen": ["conservatory", "lounge"]    
+         "notSeen": ["conservatory", "lounge"]
+		}
    },
    {
       "suspect": "Mr Green",
       "weapon": "lead pipe",
       "rooms": {
          "seen": ["conservatory"],
-         "notSeen": ["ballroom"]    
+         "notSeen": ["ballroom"]
+		}
    },
    {
       "suspect": "Mrs Peacock",
@@ -41,5 +45,6 @@
       "rooms": {
          "seen": ["kitchen", "hall"],
          "notSeen": ["dining room"]    
+		}
    }
 ]
