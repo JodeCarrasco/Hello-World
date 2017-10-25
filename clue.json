@@ -1,0 +1,45 @@
+[
+   {
+      "suspect": "Colonel Mustard",
+      "weapon": "wrench",
+      "rooms": {
+         "seen": ["lounge"],
+         "notSeen": ["kitchen", "library"]
+      }
+   },
+   {
+      "suspect": "Miss Scarlet",
+      "weapon": "candlestick",
+      "rooms": {
+         "seen": ["library", "billiard room"],
+         "notSeen": ["study"]    
+   },
+   {
+      "suspect": "Professor Plum",
+      "weapon": "revolver",
+      "rooms": {
+         "seen": ["hall", "study"],
+         "notSeen": ["billiard room", "ballroom"]    
+   },
+   {
+      "suspect": "Mrs White",
+      "weapon": "rope",
+      "rooms": {
+         "seen": ["billiard room"],
+         "notSeen": ["conservatory", "lounge"]    
+   },
+   {
+      "suspect": "Mr Green",
+      "weapon": "lead pipe",
+      "rooms": {
+         "seen": ["conservatory"],
+         "notSeen": ["ballroom"]    
+   },
+   {
+      "suspect": "Mrs Peacock",
+      "weapon": "dagger",
+      "rooms": {
+         "seen": ["kitchen", "hall"],
+         "notSeen": ["dining room"]    
+   }
+]
